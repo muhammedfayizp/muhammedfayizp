@@ -30,30 +30,15 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 
-```yaml
-Name: Muhammed Fayiz
-Location: Kerala, India
-Role: MERN Stack Developer
-Experience: 1.5+ Years
-Current Focus:
-  - React.js
-  - TypeScript
-  - Node.js
-  - Next.js
-  - Performance Optimization
+I'm a MERN Stack Developer with 1.5+ years of experience building scalable and user-friendly web applications.
 
-Achievements:
-  - Solved 200+ LeetCode Problems
-  - Built Multiple Full Stack Projects
-  - Strong DSA Foundation
-```
-
-- 💻 Passionate about building modern and scalable web applications
-- 🌱 Currently learning Next.js and advanced TypeScript
-- 🎯 Focused on clean architecture and great user experiences
-- ⚡ Love solving real-world problems through code
+- 🚀 Experienced in React.js, Node.js, Express.js, MongoDB, and SQL
+- 🌱 Currently learning Next.js and TypeScript
+- 🔥 Solved 200+ LeetCode problems
+- 💡 Strong foundation in Data Structures and Algorithms
+- 📍 Kerala, India
 
 <br clear="right"/>
 
@@ -79,7 +64,7 @@ Achievements:
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ## 🏢 WorqZone
 
@@ -131,7 +116,7 @@ Achievements:
 ---
 
 
-# 🎯 Open To Opportunities
+# Open To Opportunities
 
 ✅ Frontend Developer
 
